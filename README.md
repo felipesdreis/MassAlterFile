@@ -9,5 +9,5 @@ Used to rename all files in a folder, changing a value for a new value
 
 Used to replace an old value with a new one, both in the file and the filename
 
-> Example
+> Example:
 > python renameInOut.py  old_text new_text /code/path
